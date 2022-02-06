@@ -107,4 +107,4 @@ export const Input = ({ label, value, name, onChange }) => {
 
 ## English
 
-I have B2 skill level in writing and speaking.
+B2 skill level in writing and speaking.
